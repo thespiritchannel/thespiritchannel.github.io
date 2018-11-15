@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="last-modified" content="%y-%N-%D@%H TMZ" />
+<title>Intelligent-Infinity</title>
+<link rel="shortcut icon" href="favicon.ico" >
+
+
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 320px)" />
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 480px)" />
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 640px)" />
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 667px)" />
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 736px)" />
+
+</head>
+
+<body>
+
+	
+		<div id="menu">
+
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li class="current_page_item"><a href="0999.html">Events</a></li>
+		</ul>
+		</div>
+	
+
+	<div id="xout">
+		<img src="images/logo.jpg" alt="_" width="848" height="95" /> 
+	</div>
+
+
+
+	<div id="xout">
+	<iframe class="tkf-em-cal" scrolling="no" width="100%" height="600px" frameborder="0" style="border-width:0;background-color:transparent" src="https://tockify.com/em/intelligentinfinity"> <a href="https://tockify.com/intelligentinfinity">Wynn Free's events</a></iframe>
+	</div>
+
+<!--
+	<div id="xout">
+	<center>
+	<iframe width="90%" height="800px" src="http://www.getresponse.com/archive/thespiritchannel/"></iframe> 
+	</div>  
+-->

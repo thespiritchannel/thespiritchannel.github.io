@@ -1,0 +1,23 @@
+﻿
+    <div id="about">
+        <h2 class="title">DISCLAIMER:</h2>
+        <p> Channeled information is not meant to be believed blindly. Sometimes information may bleed through from the conscious mind of the channel. It is possible that a negative Source may interfere. Apply your own discernment, take only what resonates and discard the rest. An answer to a question is meant for the person asking the question and you have the privilege of listening in because sometimes you can gain insights from the answer. However,  even though the circumstances may be similar, do not merely assume the answer applies to you.. This is not meant to replace seeing your doctor, dentist or any alternative practitioner. Some people get healings here, so you can be open to it.</p>
+    </div>
+
+
+    <div id="footer">
+        <p>
+            Copyright &copy; 2002&ndash;
+            <script language="javascript" type="text/javascript">
+                var today = new Date()
+                var year = today.getFullYear()
+                document.write(year)
+            </script>
+            Intelligent Infinity/Wynn Free. All rights reserved.</a> Design by <a href="http://www.freecsstemplates.org/">FCT</a>
+        </p>
+    </div>
+
+
+</body>
+</html>
+

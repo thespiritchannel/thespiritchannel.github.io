@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="last-modified" content="%y-%N-%D@%H TMZ" />
+<title>Intelligent-Infinity</title>
+<link rel="shortcut icon" href="favicon.ico" >
+
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 320px)" />
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 480px)" />
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 640px)" />
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 667px)" />
+<link href="iphone.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 0px) and (max-width: 736px)" />
+
+</head>
+
+<body>
+
+	
+		<div id="menu">
+		<ul>
+			<li><a href="index.html">2016</a></li>
+			<li><a href="2015.html">2015</a></li>
+			<li class="current_page_item"><a href="2014.html">2014</a></li>
+			<li><a href="2013.html">2013</a></li>
+			<li><a href="2012.html">2012</a></li>
+			<li><a href="2011.html">2011</a></li>
+			<li><a href="2010.html">2010</a></li>
+			<li><a href="2009.html">2009</a></li>
+			<li><a href="0999.html">Events</a></li>
+			<li><a href="0000.html">Series</a></li>
+		</ul>
+		</div>
+	
+
+	<div id="xout">
+		<img src="images/logo.jpg" alt="_" width="848" height="95" /> 
+	</div>
+
+<div id="cout">
+
+<td>Last Updated :
+<script language="JavaScript">
+<!--
+date=Date()
+document.write(date)
+//-->
+
+ var today = new Date();
+ document.write(today);
+ </script>
+</td>
+
+<br>
+<br>
+<h5>
+<img src="images/m.png" /> = Wherever you see this icon, it indicates that a transcript is available for that particular session. Click on the icon to access the transcript.
+</h5>
+<br>
+</div>

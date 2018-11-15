@@ -1,0 +1,54 @@
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li class="dropdown">
+            <a href="#"
+               class="dropbtn">Archives</a>
+            <div class="dropdown-content">
+                <a href="index.html">2018</a>
+                <a href="2017.html">2017</a>
+                <a href="2016.html">2016</a>
+                <a href="2015.html">2015</a>
+                <a href="2014.html">2014</a>
+                <a href="2013.html">2013</a>
+                <a href="2012.html">2012</a>
+                <a href="2011.html">2011</a>
+                <a href="2010.html">2010</a>
+                <a href="2009.html">2009</a>
+            </div>
+        </li>
+
+        <li class="dropdown">
+            <a href="#"
+               class="dropbtn">Transcripts</a>
+            <div class="dropdown-content">
+                <a href="#">Wednesday Q&A Channelings</a>
+            </div>
+        </li>
+
+        <li class="dropdown">
+            <a href="#"
+               class="dropbtn">Topics</a>
+            <div class="dropdown-content">
+                <a href="0000.html">How The Elohim Created The Universe</a>
+                <a href="#">The Law Of One</a>
+                <a href="#">Jesus</a>
+            </div>
+        </li>
+
+        <li class="dropdown">
+            <a href="#"
+               class="dropbtn">Links</a>
+            <div class="dropdown-content">
+                <a href="http://wholeplanethealing.com/">Whole Planet Healing</a>
+                <a href="0999.html">Conference Call Schedule</a>
+            </div>
+        </li>
+
+        <li class="dropdown">
+            <a href="#"
+               class="dropbtn">Store</a>
+            <div class="dropdown-content">
+                <a href="http://wellness-energy-products.com/">Products to help support our work</a>
+            </div>
+        </li>
+    </ul>

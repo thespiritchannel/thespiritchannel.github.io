@@ -1,0 +1,15 @@
+
+<center>
+<br>
+<br>
+<h2><a href="http://donations.intelligent-infinity.com/" target=_blank><img src="images/donate.gif"/></a>
+</center>
+
+	<div id="footer">
+		<p>Copyright (c) 2002--%C Intelligent Infinity/Wynn Free. All rights reserved.</a> Design by <a href="http://www.freecsstemplates.org/">FCT</a></p>
+	</div>
+
+
+</body>
+</html>
+
